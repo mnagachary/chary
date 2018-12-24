@@ -1,2 +1,3 @@
 # chary
 Responsible
+honest 
